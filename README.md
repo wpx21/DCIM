@@ -1,4 +1,4 @@
-### This is the pytorch version repo. for “Revisiting Density-wise Importance for Boosting Adversarial Patch Attacks in Crowd Counting”.
+### This is the pytorch version repo. for “Revisiting Density-wise Importance for Boosting Adversarial Patch Attacks in Crowd Counting”. (under review)
 
 ### Prerequisites
 PyTorch: 1.10.2 + cu113
