@@ -1,4 +1,4 @@
-### This is the pytorch version repo. for “Towards Invading Deep Crowd-counting Models via Density Variation-based Adversarial Patches”.
+### This is the pytorch version repo. for “Revisiting Density-wise Importance for Boosting Adversarial Patch Attacks in Crowd Counting”.
 
 ### Prerequisites
 PyTorch: 1.10.2 + cu113
